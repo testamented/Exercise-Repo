@@ -4,3 +4,5 @@ Second change for GitBaash.
 Here comes the conflict
 
 Last change
+
+Working with bash
