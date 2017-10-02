@@ -1,4 +1,4 @@
 First change.
 Second change for GitBaash.
 
-Here comes the conflict
+Working with bash
